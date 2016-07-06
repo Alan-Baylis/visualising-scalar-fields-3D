@@ -74,7 +74,7 @@ namespace HopeAndAnchor.MarchingCubes.Metaballs.View
 				Ball ball = new Ball ();
 				ball.radius = Random.Range (minRadius, maxRadius);
 				Isolevel = ball.radius;
-				ball.position = new Vector3 (Random.Range (0, GridX*SquareSize), Random.Range (0, GridY*SquareSize), GridZ/2);
+				ball.position = new Vector3 (Random.Range (0, GridX*SquareSize), Random.Range (0, GridY*SquareSize), Random.Range (0, GridZ*SquareSize));
 				ball.velocity = new Vector3 (Random.Range (minVelocity, maxVelocity), Random.Range (minVelocity, maxVelocity), Random.Range (minVelocity, maxVelocity));
 				balls [i] = ball;
 			}

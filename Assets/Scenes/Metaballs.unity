@@ -113,12 +113,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Mesh: {fileID: 381317206}
-  NumberOfBalls: 3
+  NumberOfBalls: 5
   minVelocity: -2
   maxVelocity: 2
   minRadius: 2
   maxRadius: 2
-  Isolevel: 1
+  Isolevel: 2
   SquareSize: 0.4
   GridX: 40
   GridY: 25

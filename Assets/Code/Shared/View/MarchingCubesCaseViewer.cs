@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
-using HopeAndAnchor.MarchingCubes.Shared.Model;
+using Haa.MarchingCubes.Model;
 
-namespace HopeAndAnchor.MarchingCubes.Shared.View
+namespace Haa.MarchingCubes
 {
 	public class MarchingCubesCaseViewer : MonoBehaviour
 	{

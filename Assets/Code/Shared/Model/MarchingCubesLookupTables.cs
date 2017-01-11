@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace HopeAndAnchor.MarchingCubes.Shared.Model
+namespace Haa.MarchingCubes.Model
 {
 	public class MarchingCubesLookupTables
 	{

@@ -1,7 +1,6 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace HopeAndAnchor.MarchingCubes.Shared.View
+namespace Haa.MarchingCubes
 {
 	[RequireComponent (typeof (MeshFilter))]
 	[RequireComponent (typeof (MeshRenderer))]

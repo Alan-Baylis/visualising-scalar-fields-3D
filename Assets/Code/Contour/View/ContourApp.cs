@@ -4,10 +4,10 @@ using UnityEditor;
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using HopeAndAnchor.MarchingCubes.Shared.Model;
-using HopeAndAnchor.MarchingCubes.Shared.View;
+using Haa.MarchingCubes.Model;
+using Haa.MarchingCubes;
 
-namespace HopeAndAnchor.MarchingCubes.Contour.View
+namespace Haa.MarchingCubes.Contour.View
 {
 	public class ContourApp : MonoBehaviour
 	{

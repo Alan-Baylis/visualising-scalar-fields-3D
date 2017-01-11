@@ -2,13 +2,10 @@
 using UnityEditor;
 #endif
 using UnityEngine;
-using System.Collections;
-using System.Collections.Generic;
-using HopeAndAnchor.MarchingCubes.Shared.Model;
-using HopeAndAnchor.MarchingCubes.Shared.View;
-using HopeAndAnchor.MarchingCubes.Metaballs.Model;
+using Haa.MarchingCubes.Model;
+using Haa.MarchingCubes;
 
-namespace HopeAndAnchor.MarchingCubes.Metaballs.View
+namespace Haa.MarchingCubes
 {
 	public class MetaballsApp : MonoBehaviour
 	{

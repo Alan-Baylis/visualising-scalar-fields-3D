@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace HopeAndAnchor.MarchingCubes.Metaballs.Model
+namespace Haa.MarchingCubes
 {
 	public class Ball
 	{

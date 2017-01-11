@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
-using System.Collections;
 
-namespace HopeAndAnchor.MarchingCubes.Terrain.View
+namespace Haa.MarchingCubes
 {
 	public class Player : MonoBehaviour 
 	{

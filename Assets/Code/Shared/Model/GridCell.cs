@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace HopeAndAnchor.MarchingCubes.Shared.Model
+namespace Haa.MarchingCubes.Model
 {
 	public class GridCell
 	{
